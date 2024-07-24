@@ -22,10 +22,10 @@
     ![QA Output](https://github.com/Shivam-a0621/DocuSense/blob/master/img_vid/Screenshot%202024-07-25%20042919.png)
 
 2. **Bi-Encoder Output**:
-    ![Bi-Encoder Output](path/to/bi_encoder_output_image.png)
+    ![Bi-Encoder Output](https://github.com/Shivam-a0621/DocuSense/blob/master/img_vid/Screenshot%202024-07-25%20042943.png)
 
 3. **Hierarchical Output**:
-    ![Hierarchical Output](path/to/hierarchical_output_image.png)
+    ![Hierarchical Output](https://github.com/Shivam-a0621/DocuSense/blob/master/img_vid/Screenshot%202024-07-25%20042919.png)
 
 ## Requirements
 
