@@ -11,7 +11,7 @@ from sentence_transformers import SentenceTransformer
 bi_encoder = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
 
 # Initialize QAHandler with appropriate model and API key
-qa_handler = QAHandler(model_name='llama3-70b-8192', api_key="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")
+qa_handler = QAHandler(model_name='llama3-70b-8192', api_key="")
 
 # Function to save the uploaded PDF file
 def save_pdf(file):
