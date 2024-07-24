@@ -1,2 +1,27 @@
 https://www.linkedin.com/pulse/part-5-advanced-rag-routerquery-engine-llamaindex-sanjaya-kanungo-fiaec/
 
+https://medium.com/@pixelprofits/data-structures-deep-dive-4-8-trees-hierarchical-data-representation-f7deba97e294
+
+https://www.llamaindex.ai/blog/mastering-pdfs-extracting-sections-headings-paragraphs-and-tables-with-cutting-edge-parser-faea18870125\
+
+https://medium.com/llamaindex-blog/mastering-pdfs-extracting-sections-headings-paragraphs-and-tables-with-cutting-edge-parser-faea18870125
+
+https://github.com/nlmatics/llmsherpa?tab=readme-ov-file#layoutpdfreader
+
+https://arxiv.org/pdf/2401.11874
+
+https://ambikasukla.substack.com/p/efficient-rag-with-document-layout/comments
+
+https://docs.llamaindex.ai/en/stable/api_reference/indices/tree/
+
+https://huggingface.co/docs/transformers/en/model_doc/dpr
+https://github.com/facebookresearch/DPR
+https://towardsdatascience.com/how-to-create-an-answer-from-a-question-with-dpr-d76e29cc5d60
+
+
+https://sbert.net/examples/applications/retrieve_rerank/README.html
+https://github.com/caiyinqiong/Semantic-Retrieval-Models?tab=readme-ov-file
+
+
+
+

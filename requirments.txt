@@ -1,2 +1,7 @@
 python==3.8.10
 pypdf2
+langchain langchain-community langchain-openai neo4j
+-qU langchain-groq
+-U langchain-huggingface
+install faiss-cpu
+sentence-transformers
