@@ -19,7 +19,7 @@
 ## Screenshots
 
 1. **QA Output**:
-    ![QA Output](path/to/qa_output_image.png)
+    ![QA Output]([path/to/qa_output_image.png](https://github.com/Shivam-a0621/DocuSense/blob/master/img_vid/Screenshot%202024-07-25%20042919.png))
 
 2. **Bi-Encoder Output**:
     ![Bi-Encoder Output](path/to/bi_encoder_output_image.png)
