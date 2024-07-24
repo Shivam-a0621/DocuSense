@@ -28,7 +28,8 @@
     ![Hierarchical Output](https://github.com/Shivam-a0621/DocuSense/blob/master/img_vid/Screenshot%202024-07-25%20042919.png)
 
 4. **SAmple Video**:
-   ![Hierarchical Output](https://github.com/Shivam-a0621/DocuSense/blob/master/img_vid/Gradio%20-%20Google%20Chrome%202024-07-25%2004-27-17.mp4)
+   [![Sample Video](https://i.sstatic.net/Vp2cE.png)](https://github.com/Shivam-a0621/DocuSense/blob/master/img_vid/Gradio%20-%20Google%20Chrome%202024-07-25%2004-27-17.mp4)
+
        
 
 ## Requirements
